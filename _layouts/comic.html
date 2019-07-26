@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<main>
+  <article>
+    <div width = 100% style ="padding-top: 10px;padding-bottom: 10px">
+        {% if page.previous %}
+        <div style ="float: left">
+        <a {% if page.previous %} href="{{ page.previous.url | prepend: site.baseurl }}" {% else %} class="disabled" {% endif %}>« Previous Comic</a>
+        </div>
+        {% endif %}
+        {% if page.next %}
+        <div style = "float: right">
+        <a {% if page.next %} href="{{ page.next.url | prepend: site.baseurl }}" {% else %} class="disabled" {% endif %}>Next Comic »</a>
+        </div>
+        {% endif %}
+    </div>
+    <!-- <br/> -->
+    <h2>{{ page.title }}</h2>
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+{{ content }}
+  </article>
+</main>
+<div width = 100%>
+    {% if page.previous %}
+    <div style ="float: left">
+    <a {% if page.previous %} href="{{ page.previous.url | prepend: site.baseurl }}" {% else %} class="disabled" {% endif %}>« Previous Comic</a>
+    </div>
+    {% endif %}
+    {% if page.next %}
+    <div style = "float: right">
+    <a {% if page.next %} href="{{ page.next.url | prepend: site.baseurl }}" {% else %} class="disabled" {% endif %}>Next Comic »</a>
+    </div>
+    {% endif %}
+</div>

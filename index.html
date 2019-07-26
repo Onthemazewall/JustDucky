@@ -4,15 +4,15 @@ title: Home
 ---
 <main>
   <article>
-      <h2><a href="{{ site.posts.first.url | prepend: site.baseurl }}">{{ site.posts.first.title }}</a></h1>
+      <h2><a href="{{ site.posts.first.url | prepend: site.baseurl }}">{{ site.posts.first.title }}</a></h2>
       <time datetime="{{ site.posts.first.date | date_to_xmlschema }}">{{ site.posts.first.date | date: "%B %-d, %Y" }}</time>
     {{ site.posts.first.content }}
   </article>
 </main>
 {% if site.posts.first.previous %}
-<footer width = 100%>
+<div width = 100%>
     <div style ="float: left">
     <a href="{{ site.posts.first.previous.url | prepend: site.baseurl }}">« Previous Comic</a>
     </div>
-</footer>
+</div>
 {% endif %}
