@@ -1,0 +1,10 @@
+---
+title: "27: Paranoid in a Professional Capacity"
+date: 2019-10-02 10:10:35 +0200
+tags: Book 1
+layout: comic
+---
+
+![27: Paranoid in a Professional Capacity](/comics/Book_1_-_027_Paranoid_in_a_Professional_Capacity.png)
+
+So I continue to try to figure out what my son is going to do for school next year and it becomes increasingly likely I'm going to sign up my little budding introvert for private school, I find myself being very emotional about it. Not for my son, he will love the private school,  (Unlike the public system that in April has "preschool" that seems to consists of three months of goofing around with 25 other kids and barely any adult supervision followed by an overly long for a pattern obsessed child vacation, the private school just puts them in the kindergarten class for that three month transition and they start right in on the three R's. ) but for me. I've gotten very invested in my son's nursery school. It's familiar, I have a lot of parent buddies there, I know all the teachers, the format, the space and I love it. It brings me peace to think of my daughter going to such a great place. I've already requested her room and her teacher. However, if my son goes to the 40 minute walk/15 minute bike ride school on the South side of town, I can't send her to the 30 minute walk/10 minute bike ride school on the East side of town. I'd spend nearly two hours every day just shuttling around my children. So my son starting school will mean not only big change for him, but for me. On the upside, a friend of mine has found a great little børnehave that's a six minute walk from my son's potential new school. She was even pickier about where to send her son than me and we share many of the same values, so if she likes it, it must be good. We're visiting tomorrow and I have every expectation that it will be excellent. So while it's change for me and, like all humans, I don't like big systemic change, it would in no way be a bad thing.
