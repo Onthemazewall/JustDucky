@@ -1,0 +1,24 @@
+---
+title: "67: Duck Snake Legend"
+date: 2020-01-29 13:01:49 +0100
+tags: Book 1
+layout: comic
+---
+
+![67: Duck Snake Legend](/comics/Book_1_-_067_Duck_Snake_Legend.png)
+
+So I called one of my Chinese father's to wish him a happy spring festival this week. He told me that my other Chinese father was dead. I didn't believe him at first, especially since his evidence was just that Da Yang wasn't answering his phone. Er Yang is often overly dramatic and will say something fairly outrageous things to guilt me about not calling enough. My favorite is still when he insisted his neighbor died, because I didn't call often enough and this person, practically a complete stranger, has missed me. However, next time I called he said he'd confirmed with a college friend, yes, my shifu Da Yang was dead, had been dead for a year and I was only just hearing about this now. I probably should have called him more too, but it's hard with the time difference to carve out the time. Originally my friend Jamie and I had bought the iPad mini with the intentions that both Yangs would use it, but as they had grown old enough to no longer be training in the park in the morning, so had their friendship fizzled and they never saw each other. So Er Yang, with the iPad could and did call me whenever and I was still stuck using the hated Skype App to call Da Yang...
+
+Both the Yangs are my parents' age, Da Yang (Big Yang) is a year older than Er Yang (Yang 2) and both younger than Lao Yang (Old Yang). They used to joke that I should change my ugly, masculine, Japanese sounding Chinese name to Yang Yang Yang, one for each of them and one for myself. At the time there was a famous female athlete named Yang Yang.
+
+I met them in the park. When I lived in China I used to get up early and do gongfu with Lei Ping Shifu, also long deceased now. I took the genetic gift of his youthful looks as testament to his martial arts prowess. He taught me, so that was enough, but he and the other students liked to make fun of me for being so weak, giving me the biggest spear to hold and laughing when I couldn't wield it. However, one of the other students, Er Yang, decided to do something about it and introduced me to his friend Da Yang and shisuo.
+
+Since Er Yang worked the train from Shanghai to Beijing, he was only there every three days. When he was gone, Da Yang was my teacher. Er Yang has the looks of a Chinese noble, fair skin, big double lidded oval eyes and a narrow nose. Da Yang had brown skin, a flat nose and single lidded eyes. He looked like a farmer. The irony was that Er Yang was rough and fowl mouthed whereas Da Yang practically talked in Confucian quotes. During the bad old days, Er Yang had a rough simple job and Da Yang ran a factory, hiding his learned roots. Perhaps they were judged by their looks. 
+
+Da Yang was always talking about my looks and how if I was a strapping young man he'd make me do 100 tosses, but as a girl I should do 50, which would anger me and make me do 150 tosses. He was very impressed by my progress, though everyone feared they had made me unmarriageable, who would want a maiden with rough hands?
+
+They came over to my house a lot and I went to theirs often. We went out to lunch, they met my parents, they called me daughter and I them fathers, because they really didn't take me under their wings and teach me about Chinese culture and the way of the world like a parent would. They taught me how to turn down guys I didn't want to date by making up an imaginary boyfriend and always warned me never to drink when in mixed company, because men would take advantage of me. Da Yang insisted that people would see my high bridged nose, know I was a foreigner and rip me off, though ironically I was a better bargainer than he. 
+
+When I left China I wrote letters to Da Yang, but his flowery Chinese Shakespeare was hard to read and keep up with. Eventually I just called both of them, but while Er Yang would moan about how long it'd been since my last call, lecture me on not being married or having children or getting fat or whatever else he could think of, Da Yang would just have a 10 minute prepared speech for me to nod along to. So over the last 15 years I called less and less and here I am today, not even knowing he'd been gone for a whole year. 
+
+Da Yang lived an extremely full life, he had a wife, a son, a grandson and a mistress for 22 years. In his youth he did the kind of martial arts where you punch steel and could toss 80 pound stone locks with one hand. I think it was a third stroke that took him, by that point he was wheelchair bound and no longer happy, so I expect it was his time. I still have shisuo carved with his name and I hope when my children are old enough to really understand to tell them about how important he was in some of the most formative years of my life.
