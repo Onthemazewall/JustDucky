@@ -1,5 +1,3 @@
-
-
 ---
 title: "82: Ensuring Duck Dinner"
 date: 2020-09-26 18:09:48 +0200
